@@ -1,0 +1,7 @@
+mlx>=0.6
+mlx-data
+huggingface-hub
+regex
+numpy
+tqdm
+Pillow
