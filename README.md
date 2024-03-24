@@ -1,4 +1,4 @@
-### sd-lora-mlx
+### dreambooth-mlx
 model must first be [converted](https://github.com/ml-explore/mlx-examples/blob/main/lora/convert.py) to MLX.
 
 ```bash
